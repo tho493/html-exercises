@@ -852,9 +852,6 @@ footer p a {
 	}
   }
 
-
-
-
 /* Responsive Style */
 @media (max-width: 1250px) {
 	.owl-banner .owl-nav .owl-prev {
@@ -871,6 +868,9 @@ footer p a {
 	}
 	.owl-banner .item .item-content h4 {
 		font-size: 20px;
+	}
+	.banner-text {
+		margin: 20% 0 0 35px;
 	}
 }
 @media (max-width: 768px) {
@@ -954,6 +954,9 @@ footer p a {
 	.contact-us .contact-information {
 		margin-left: 0px;
 		margin-top: 60px;
+	}
+	.intro, .content-list{
+		padding: 0 10%;
 	}
 }
 
